@@ -13,6 +13,11 @@ Solutions for [Advent of Code 2025](https://adventofcode.com/2025) in [Rust](htt
 <!--- benchmarking table --->
 ## Benchmarks
 
+| Day | Part 1 | Part 2 |
+| :---: | :---: | :---:  |
+| [Day 1](./src/bin/01.rs) | `71.0µs` | `64.8µs` |
+
+**Total: 0.14ms**
 <!--- benchmarking table --->
 
 ---
