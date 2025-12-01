@@ -3,7 +3,7 @@
 Solutions for [Advent of Code 2025](https://adventofcode.com/2025) in [Rust](https://www.rust-lang.org/).
 
 <!--- advent_readme_stars table --->
-## Results
+## 2025 Results
 
 | Day | Part 1 | Part 2 |
 | :---: | :---: | :---: |
